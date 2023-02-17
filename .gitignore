@@ -23,4 +23,7 @@
 /zlib.pc
 /configure.log
 
+/zconf.h
+/zconf.h.included
+
 .DS_Store
